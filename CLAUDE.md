@@ -1,4 +1,4 @@
-# JobSniper
+# Chisel（原名 JobSniper）
 
 精准狙击目标职位的求职工具 — 渠道打通 · 职位画像 · 匹配评分
 
